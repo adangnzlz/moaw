@@ -1,0 +1,3 @@
+urlparams = {
+    contact: "http://localhost/moaw/server/form/endForm.php"
+};
